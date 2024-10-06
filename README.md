@@ -5,7 +5,7 @@ About Me
 I'm Hussein, a passionate Programming and Cyber security based in Cairo. I enjoy exploring various aspects of technology, particularly Cyber security, and creating practical solutions to real-world problems.
 - 📌 I'm from Qena.
 - 🌍 I'm based in Cairo.
-- 🔭 I’m currently working on [Current Project/Interest].
+- 🔭 I’m currently working on [Programmin, Problem Solving, Cyber Security, Network /Football].
 - 🌱 I’m currently learning Programming, Cyber Security, Penetration Testing, Network Security.
 - 📫 How to reach me: hussinibrahim043@gmail.com
 - 😄 Pronouns: HUSSEIN_RABIO
