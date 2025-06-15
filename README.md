@@ -38,7 +38,9 @@ My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hussein-Ibrahim043&show_icons=true&theme=radical)
 
 ### Most Used Languages
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussein-Ibrahim043&layout=compact&theme=radical)
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussein-Ibrahim043&layout=compact&theme=radical&langs_count=10&cache_seconds=60)
 
 
